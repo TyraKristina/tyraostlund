@@ -413,3 +413,64 @@ h3 {
   margin-top: 4vw;
   margin-left: 8vw;
 }
+
+
+.bread_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 8vw;
+  width: 88vw;
+  gap: 8vw;
+  position: relative;
+  top: -12vw;
+}
+
+p {
+  font-family: "fang", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  font-size: 1.5vw;
+  line-height: 2.4vw;
+  width: 40vw;
+  flex-basis: 40%;
+}
+
+.profil {
+  width: 29vw;
+  align-self: start;
+  position: relative;
+  top: 0.5vw;
+}
+
+.chinchilla {
+font-family: "chinchilla", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 3vw;
+  margin-right: -0.5vw;
+}
+
+.kontakter {
+
+  font-family: "fang", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+  font-size: 1.5vw;
+  position: relative;
+  line-height: 2vw;
+  top: -13vw;
+  text-align: center;
+}
+
+.ikon {
+width: 88vw;
+position: absolute;
+opacity: 20%;
+margin-left: 5vw;
+top: -5vw;
+  
+}
