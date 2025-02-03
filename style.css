@@ -223,7 +223,7 @@ h3 {
   initial-letter: 3;
 }
 
-.text_sagovarld_2::first-letter {
+.text_bo_2::first-letter {
   initial-letter: 3;
   margin-right: 0.5vw;
 }
@@ -461,7 +461,7 @@ font-family: "chinchilla", sans-serif;
   color: black;
   font-size: 1.5vw;
   position: relative;
-  line-height: 2vw;
+  line-height: 4vw;
   top: -13vw;
   text-align: center;
 }
