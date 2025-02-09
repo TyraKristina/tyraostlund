@@ -414,66 +414,6 @@ h3 {
   margin-left: 8vw;
 }
 
-.flex_container_8 {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  align-items: flex-start;
-  margin: 6vw;
-  width: 88vw;
-  row-gap: 0.5vw;
-  position: relative;
-  margin-top: 1vw;
-}
-
-.djur {
-  align-self: start;
-  flex-basis: 100%;
-  flex-grow: 0;
-}
-
-.text_djur {
-  font-family: "fang", serif;
-  font-weight: 200;
-  font-style: normal;
-  font-size: 1.5vw;
-  width: 38vw;
-  align-self: start;
-  margin-right: 8vw;
-  position: relative;
-  top: -4vw;
-  line-height: 2.2vw;
-}
-
-.doe {
-  width: 38vw;
-  align-self: start;
-  margin: 0;
-  margin-top: -8.5vw;
-}
-
-.hare {
-  width: 38vw;
-  align-self: start;
-  margin: 0;
-  margin-top: -20vw;
-}
-
-.doe_2 {
-  width: 38vw;
-  align-self: start;
-  margin: 0;
-  margin-top: 5vw;
-  margin-left: 8vw;
-}
-
-.doe_3 {
-  width: 38vw;
-  align-self: start;
-  margin: 0;
-  margin-top: -9vw;
-}
-
 
 .bread_wrap {
   display: flex;
