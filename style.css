@@ -71,6 +71,7 @@ color: white;
   position: relative;
   margin-top: -1.3vw;
   margin-left: 7.5vw;
+   color: red;
 }
 
 .subheadings {
@@ -84,6 +85,7 @@ color: white;
   margin-bottom: 2rem;
   margin-top: 8.2vw;
   margin-left: 6.6vw;
+   color: red;
 }
 
 .subheadings a {
@@ -101,7 +103,7 @@ font-style: italic;
 
 @keyframes blinker {
   1% {
-    color: black;
+    color: red;
   }
   50% {
    color: magenta;
@@ -207,6 +209,7 @@ a {
   margin-left: 6vw;
   margin-bottom: -6vw;
   top:-5vw;
+   color: red;
  
 }
 
@@ -229,10 +232,11 @@ a {
   font-family: "jacquarda-bastarda-9", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: magenta;
+  color: red;
   font-size: 6vw;
   animation: blink 1.4s steps(2, start) infinite;
   margin-top: -2vw;
+   
 }
 
 .text_skogen {
@@ -245,6 +249,7 @@ a {
   margin-top: 1vw;
   margin-right: 8vw;
   line-height: 2.2vw;
+   color: red;
 }
 
 .responsive-video {
@@ -276,6 +281,7 @@ a {
   margin-top: 2.5vw;
   margin-left: 8.2vw;
   line-height: 2.2vw;
+   color: red;
 }
 
 .text_skogen3 {
@@ -287,6 +293,7 @@ a {
   align-self: start;
   margin-top: 1vw;
   line-height: 2.2vw;
+   color: red;
 }
 
 .text_contact {
@@ -306,6 +313,7 @@ a {
   border-radius: 1vw;
   margin-top: 6vw;
   margin-left: 5vw;
+   color: red;
 }
 
 .safety_pin_1 {
