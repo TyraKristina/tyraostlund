@@ -10,7 +10,7 @@
       display: flex;
       width: max-content;
       animation: scroll 20s linear infinite;
-       color: red;
+       color: black;
     }
 
     .marquee-text {
@@ -72,7 +72,7 @@ color: white;
   position: relative;
   margin-top: -1.3vw;
   margin-left: 7.5vw;
-   color: red;
+   color: black;
 }
 
 .subheadings {
@@ -86,7 +86,7 @@ color: white;
   margin-bottom: 2rem;
   margin-top: 8.2vw;
   margin-left: 6.6vw;
-   color: red;
+   color: black;
 }
 
 .subheadings a {
@@ -210,7 +210,7 @@ a {
   margin-left: 6vw;
   margin-bottom: -6vw;
   top:-5vw;
-   color: red;
+   color: black;
  
 }
 
@@ -233,7 +233,7 @@ a {
   font-family: "jacquarda-bastarda-9", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: red;
+  color: black;
   font-size: 6vw;
   animation: blink 1.4s steps(2, start) infinite;
   margin-top: -2vw;
@@ -250,7 +250,7 @@ a {
   margin-top: 1vw;
   margin-right: 8vw;
   line-height: 2.2vw;
-   color: red;
+   color: black;
 }
 
 .responsive-video {
@@ -282,7 +282,7 @@ a {
   margin-top: 2.5vw;
   margin-left: 8.2vw;
   line-height: 2.2vw;
-   color: red;
+   color: black;
 }
 
 .text_skogen3 {
@@ -294,7 +294,7 @@ a {
   align-self: start;
   margin-top: 1vw;
   line-height: 2.2vw;
-   color: red;
+   color: black;
 }
 
 .text_contact {
@@ -314,7 +314,7 @@ a {
   border-radius: 1vw;
   margin-top: 6vw;
   margin-left: 5vw;
-   color: red;
+   color: black;
 }
 
 .safety_pin_1 {
