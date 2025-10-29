@@ -104,7 +104,7 @@ font-style: italic;
 
 @keyframes blinker {
   1% {
-    color: red;
+    color: black;
   }
   50% {
    color: magenta;
